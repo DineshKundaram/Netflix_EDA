@@ -80,16 +80,12 @@ Below are key visualizations from the analysis:
    git clone <repository-url>
    cd <repository-directory>
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Place the dataset (`NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv`) in the project directory.
-4. Run the Jupyter Notebook:
+2. Place the dataset (`NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv`) in the project directory.
+3. Run the Jupyter Notebook:
    ```bash
    jupyter notebook Netflix_EDA_final.ipynb
    ```
-5. Follow the notebook to explore the analysis and visualizations.
+4. Follow the notebook to explore the analysis and visualizations.
 
 ## Future Work
 - Integrate external data (IMDB, Rotten Tomatoes) for deeper insights.
@@ -100,7 +96,3 @@ Below are key visualizations from the analysis:
 Netflix’s shift towards TV shows aligns with viewer preferences for serialized content, but the decline in movies calls for a balanced approach. Regional differences highlight the need for localized strategies, and understanding content characteristics can guide future investments to enhance Netflix’s global appeal and subscriber retention.
 
 ---
-
-**Author**: [Your Name]  
-**Date**: May 2025  
-**License**: MIT
